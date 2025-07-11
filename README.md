@@ -22,7 +22,7 @@ A command-line to-do list application that allows users to:
 - Delete tasks
 - Store task data using text file handling
 
-[View Code](https://github.com/Supriyaraj-ai/CodSoft/blob/main/todo_list.py)
+[View Code](https://github.com/Supriyaraj-ai/CodSoft/blob/main/To-do%20list.py)
 
 ---
 
@@ -45,7 +45,7 @@ Generates strong random passwords based on user-defined length. It includes:
 - Digits and special characters
 - Uses Python’s `random` and `string` modules
 
-[View Code](https://github.com/Supriyaraj-ai/CodSoft/blob/main/password_generator.py)
+[View Code](https://github.com/Supriyaraj-ai/CodSoft/blob/main/Password%20Generator.py)
 
 ---
 
@@ -55,7 +55,7 @@ An interactive game where the user plays against the computer. The program inclu
 - Conditional logic for game rules
 - Option to replay
 
-[View Code](https://github.com/Supriyaraj-ai/CodSoft/blob/main/rock_paper_scissors.py)
+[View Code](https://github.com/Supriyaraj-ai/CodSoft/blob/main/ROCK-PAPER-SCISSORS.PY)
 
 ---
 
@@ -64,7 +64,7 @@ A contact management system with a menu-driven interface. Features include:
 - Add, Search, Update, Delete, and View contacts
 - Data organized using Python dictionaries
 
-[View Code](https://github.com/Supriyaraj-ai/CodSoft/blob/main/contact_book.py)
+[View Code](https://github.com/Supriyaraj-ai/CodSoft/blob/main/CONTACTBOOK.PY)
 
 ---
 
@@ -74,13 +74,5 @@ The CodSoft internship provided an excellent opportunity to implement Python kno
 - Strengthen programming logic
 - Practice writing modular and reusable code
 - Gain hands-on experience with real-world applications
-
----
-
-## Connect
-
-If you're interested in these projects or would like to connect, feel free to reach out:
-
-- LinkedIn: [https://www.linkedin.com/in/supriyaraj-ai](https://www.linkedin.com/in/supriyaraj-ai)
 
 ---
